@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - cameraTransform
+  - ' environmentTransform'
+  - Ground
+  - Ceiling
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - groundLayerMask
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 2541004363
+    locked: 0
+  - name: TIle
+    uniqueID: 2257150015
+    locked: 0
+  - name: Door
+    uniqueID: 584752341
+    locked: 0
+  - name: Trap
+    uniqueID: 671606319
+    locked: 0
